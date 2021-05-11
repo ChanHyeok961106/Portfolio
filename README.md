@@ -51,10 +51,16 @@
 > Repository : https://github.com/ChanHyeok961106/Dori.git
 > 
 > ## * Avoid Trash
+> 개발환경 : python / pygame\
+> 프로젝트 : 실시간 영상처리로 사람 얼굴을 인식해 모터를통해 카메라를 움직이고 사진저장\
+> Repository : https://github.com/ChanHyeok961106/AvoidTrash.git
 > 
 > ## * Football Manager
+> 개발환경 : C++\
+> 프로젝트 : 축구인들을 위한 포지션 추천 + 전술 + 포메이션 최적 매니징 프로그램\
+> Repository : https://github.com/ChanHyeok961106/FootballManager.git
 > 
-> ## * Garbage on The Sea
+> ## * Garbage on The Sea - 바다위에 쓰레기
 > 
 > ## * 브실골탈출키보드
 > 
