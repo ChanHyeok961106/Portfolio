@@ -6,7 +6,9 @@
 > ![chan](https://user-images.githubusercontent.com/34766471/117864170-77a1d100-b2cf-11eb-80e8-992682bd330a.png)
 
 # 수상 및 활동
-> ## Griffith Univ (AUS, goldcoast) 해외연수
+> ## * 2017 캡스톤디자인경진대회 - 은상
+> ### 출품작 : EYE (HealthCare IoT 
+> ## * Griffith Univ (AUS, goldcoast) 해외연수
 > ### C# / Unity / 어학연수
 
 # 프로젝트
