@@ -67,13 +67,13 @@
 > ![슬라이드0](https://user-images.githubusercontent.com/34766471/117873789-27307080-b2db-11eb-9a5a-efe885cecd2c.JPG)
 
 > ## * Garbage on The Sea - 바다위에 쓰레기
-> 개발환경 : Arduino, Android App
+> 개발환경 : Arduino, Android App\
 > 프로젝트 : 해양 쓰레기를 쓰레기로 만든 보트를 통해 치우는 컨셉을 잡고 제작\
 > Repository : https://github.com/ChanHyeok961106/GarbageOnTheSea_CODE_LOST.git (소스 날아감)\
 > ![KakaoTalk_20210409_172303428](https://user-images.githubusercontent.com/34766471/117873928-50e99780-b2db-11eb-99af-c1ac397ef6c0.png)
 
 > ## * 브실골탈출키보드
-> 개발환경 : Arduino / Arduino leonardo, CAD
+> 개발환경 : Arduino / Arduino leonardo, CAD\
 > 프로젝트 : 게임전용 키보드 제작\
 > Repository : https://github.com/ChanHyeok961106/GamingKeyboard.git (소스 날아감)\
 > ![2015 소전 제출작 브실골탈출키보드](https://user-images.githubusercontent.com/34766471/117874130-960dc980-b2db-11eb-8413-3d0e82688947.png)
