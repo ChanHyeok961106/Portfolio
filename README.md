@@ -64,6 +64,6 @@
 > Repository : https://github.com/ChanHyeok961106/GarbageOnTheSea_CODE_LOST.git
 
 > ## * 브실골탈출키보드
-> 개발환경 : Arduino, Arduino leonardo, CAD
+> 개발환경 : Arduino / Arduino leonardo, CAD
 > 프로젝트 : 게임전용 키보드 제작\
 > Repository : https://github.com/ChanHyeok961106/GamingKeyboard.git
