@@ -75,12 +75,12 @@
 
 > ## * Deep Learning Project (진행중)
 > 개발환경 : Python (Pytorch)\
-> 프로젝트 : \
+> 프로젝트 : 사물종류를 판별 및 연산시간 감소, 정확성 높히기\
 > Repository : 
 
 > ## * Football Manage Web Project (진행중)
 > 개발환경 : HTML, JavaScript\
-> 프로젝트 : \
+> 프로젝트 : 축구인(동호회)들을 위한 매니지먼트(팀관리/포지션/포메이션 어시스트) 웹\
 > Repository :  
 
 
