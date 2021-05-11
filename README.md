@@ -38,14 +38,23 @@
 > 프로젝트 : 눈 건강을 보호하고, 사용자가 커스터마이징 할 수 있는 IoT\
 > Repository : https://github.com/ChanHyeok961106/EYE_IoT_HealthCareProject.git
 > ![EYE](https://user-images.githubusercontent.com/34766471/117863838-27c30a00-b2cf-11eb-9336-89856120ef79.png)
-> ![캡스톤 팀원들이랑](https://user-images.githubusercontent.com/34766471/117867866-dec18480-b2d3-11eb-8c93-fbf0ce902adc.jpg)
+> ![캡스톤 팀원들이랑](https://user-images.githubusercontent.com/34766471/117868739-e7668a80-b2d4-11eb-87ba-f6cd6003c15b.jpg)
 
 > ## * Face Tracking CCTV
 > 개발환경 : C++, Arduino / OpenCV\
 > 프로젝트 : 실시간 영상처리로 사람 얼굴을 인식해 모터를통해 카메라를 움직이고 사진저장\
 > Repository : https://github.com/ChanHyeok961106/FaceTrackingCCTV.git
+> 
 > ## * Dori
+> 개발환경 : C++, Arduino / OpenCV\
+> 프로젝트 : 사람따라 움직이는 펭귄 인형\
+> Repository : https://github.com/ChanHyeok961106/Dori.git
+> 
 > ## * Avoid Trash
+> 
 > ## * Football Manager
+> 
 > ## * Garbage on The Sea
+> 
 > ## * 브실골탈출키보드
+> 
