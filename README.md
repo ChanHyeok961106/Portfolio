@@ -69,7 +69,7 @@
 > ## * Garbage on The Sea - 바다위에 쓰레기
 > 개발환경 : Arduino, Android App
 > 프로젝트 : 해양 쓰레기를 쓰레기로 만든 보트를 통해 치우는 컨셉을 잡고 제작\
-> Repository : https://github.com/ChanHyeok961106/GarbageOnTheSea_CODE_LOST.git (소스 날아감)
+> Repository : https://github.com/ChanHyeok961106/GarbageOnTheSea_CODE_LOST.git (소스 날아감)\
 > ![KakaoTalk_20210409_172303428](https://user-images.githubusercontent.com/34766471/117873928-50e99780-b2db-11eb-99af-c1ac397ef6c0.png)
 
 > ## * 브실골탈출키보드
