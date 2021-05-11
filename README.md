@@ -8,10 +8,15 @@
 # 수상 및 활동
 > # 수상
 > > ## * 2017 캡스톤디자인경진대회 - 은상
+> > ![캡스톤 수상](https://user-images.githubusercontent.com/34766471/117866093-b042aa00-b2d1-11eb-9331-9fd031cd4387.jpg)
 > > ## * 2017 제 6회 공과대학 연합학술제 서공제 - 팀분야 1위
+> > ![2017 서공제 수상](https://user-images.githubusercontent.com/34766471/117866112-b8024e80-b2d1-11eb-8e33-f6936f8deae6.jpg)
 > > ## * 2015 제 1회 해커톤(한림대 컴퓨터공학과) - 금상
+> > ![2015 해커톤 금상](https://user-images.githubusercontent.com/34766471/117866238-dd8f5800-b2d1-11eb-9338-be3c74132390.jpg)
+
 > # 활동
 > > ## * Griffith University (AUS, goldcoast) 해외연수
+> > ![호주 골드코스트 그리피스대학교 수료증](https://user-images.githubusercontent.com/34766471/117866355-00217100-b2d2-11eb-9644-398a77d81169.jpg)
 > > ### C# / Unity / 어학연수
 > > ## * 클리너펜슬 창업 동아리 - 17년 2학기
 > > ## * 소프트웨어 전시회 (동아리 주최) - 15년
