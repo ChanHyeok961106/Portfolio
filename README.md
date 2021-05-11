@@ -36,7 +36,7 @@
 > ## * EYE
 > 개발환경 : C++, HTML, MySQL, Apache, Arduino / RaspberryPI, Arduino\
 > 프로젝트 : 눈 건강을 보호하고, 사용자가 커스터마이징 할 수 있는 IoT\
-> Repository : https://github.com/ChanHyeok961106/EYE_IoT_HealthCareProject.git
+> Repository : https://github.com/ChanHyeok961106/EYE_IoT_HealthCareProject.git (소스는 라즈베리파이에 있어 추출못함)
 
 > ## * Face Tracking CCTV
 > 개발환경 : C++, Arduino / OpenCV\
@@ -61,12 +61,12 @@
 > ## * Garbage on The Sea - 바다위에 쓰레기
 > 개발환경 : Arduino, Android App
 > 프로젝트 : 해양 쓰레기를 쓰레기로 만든 보트를 통해 치우는 컨셉을 잡고 제작\
-> Repository : https://github.com/ChanHyeok961106/GarbageOnTheSea_CODE_LOST.git
+> Repository : https://github.com/ChanHyeok961106/GarbageOnTheSea_CODE_LOST.git (소스 날아감)
 
 > ## * 브실골탈출키보드
 > 개발환경 : Arduino / Arduino leonardo, CAD
 > 프로젝트 : 게임전용 키보드 제작\
-> Repository : https://github.com/ChanHyeok961106/GamingKeyboard.git
+> Repository : https://github.com/ChanHyeok961106/GamingKeyboard.git (소스 날아감)
 >
 > ## * 음성인식블루투스RC카
 > 프로젝트 : Google Speech API와 블루투스를 이용한 RC카\
