@@ -8,6 +8,8 @@
 > ### * EYE
 > 개발환경 : C++, HTML, MySQL, Apache, Arduino / RaspberryPI, Arduino\
 > 프로젝트 : 눈 건강을 보호하고, 사용자가 커스터마이징 할 수 있는 IoT
+> ![EYE](https://user-images.githubusercontent.com/34766471/117863838-27c30a00-b2cf-11eb-9336-89856120ef79.png)
+
 > ### * Face Tracking CCTV
 > ### * Dori
 > ### * Avoid Trash
