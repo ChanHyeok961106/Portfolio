@@ -35,9 +35,8 @@
 # 프로젝트
 > ## * EYE
 > 개발환경 : C++, HTML, MySQL, Apache, Arduino / RaspberryPI, Arduino\
-> 프로젝트 : 눈 건강을 보호하고, 사용자가 커스터마이징 할 수 있는 IoT
-> Repository
-> https://github.com/ChanHyeok961106/EYE_IoT_HealthCareProject.git
+> 프로젝트 : 눈 건강을 보호하고, 사용자가 커스터마이징 할 수 있는 IoT\
+> Repository : https://github.com/ChanHyeok961106/EYE_IoT_HealthCareProject.git
 > ![EYE](https://user-images.githubusercontent.com/34766471/117863838-27c30a00-b2cf-11eb-9336-89856120ef79.png)
 > ![캡스톤 팀원들이랑](https://user-images.githubusercontent.com/34766471/117867866-dec18480-b2d3-11eb-8c93-fbf0ce902adc.jpg)
 
