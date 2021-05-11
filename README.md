@@ -68,7 +68,19 @@
 > 개발환경 : Arduino / Arduino leonardo, CAD
 > 프로젝트 : 게임전용 키보드 제작\
 > Repository : https://github.com/ChanHyeok961106/GamingKeyboard.git (소스 날아감)
->
+
 > ## * 음성인식블루투스RC카
 > 프로젝트 : Google Speech API와 블루투스를 이용한 RC카\
 > Repository : ( X ) < 해당 프로젝트 자료 전부 
+
+> ## * Deep Learning Project (진행중)
+> 개발환경 : Python (Pytorch)\
+> 프로젝트 : \
+> Repository : 
+
+> ## * Football Manage Web Project (진행중)
+> 개발환경 : HTML, JavaScript\
+> 프로젝트 : \
+> Repository :  
+
+
