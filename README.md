@@ -76,6 +76,7 @@
 > 개발환경 : Arduino / Arduino leonardo, CAD
 > 프로젝트 : 게임전용 키보드 제작\
 > Repository : https://github.com/ChanHyeok961106/GamingKeyboard.git (소스 날아감)
+> ![2015 소전 제출작 브실골탈출키보드](https://user-images.githubusercontent.com/34766471/117874130-960dc980-b2db-11eb-8413-3d0e82688947.png)
 
 > ## * 음성인식블루투스RC카
 > 프로젝트 : Google Speech API와 블루투스를 이용한 RC카\
