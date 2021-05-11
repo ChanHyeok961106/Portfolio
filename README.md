@@ -59,7 +59,11 @@
 > Repository : https://github.com/ChanHyeok961106/FootballManager.git
 
 > ## * Garbage on The Sea - 바다위에 쓰레기
->
+> 개발환경 : Arduino, Android App
+> 프로젝트 : 해양 쓰레기를 쓰레기로 만든 보트를 통해 치우는 컨셉을 잡고 제작\
+> Repository : https://github.com/ChanHyeok961106/GarbageOnTheSea_CODE_LOST.git
 
 > ## * 브실골탈출키보드
-> 
+> 개발환경 : Arduino, Arduino leonardo, CAD
+> 프로젝트 : 게임전용 키보드 제작\
+> Repository : https://github.com/ChanHyeok961106/GamingKeyboard.git
