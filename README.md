@@ -41,6 +41,9 @@
 > ![캡스톤 팀원들이랑](https://user-images.githubusercontent.com/34766471/117867866-dec18480-b2d3-11eb-8c93-fbf0ce902adc.jpg)
 
 > ## * Face Tracking CCTV
+> 개발환경 : C++, Arduino / OpenCV\
+> 프로젝트 : 실시간 영상처리로 사람 얼굴을 인식해 모터를통해 카메라를 움직이고 사진저장\
+> Repository : https://github.com/ChanHyeok961106/FaceTrackingCCTV.git
 > ## * Dori
 > ## * Avoid Trash
 > ## * Football Manager
