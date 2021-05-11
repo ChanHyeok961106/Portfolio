@@ -19,12 +19,14 @@
 > > ### C# / Unity / 어학연수
 > > ![호주 골드코스트 그리피스대학교 수료증](https://user-images.githubusercontent.com/34766471/117866523-33640000-b2d2-11eb-91c0-db0ec3087981.jpg)
 > > ## * 클리너펜슬 창업 동아리 - 17년 2학기
-> > 
+> > ![창업동아리 활동증서](https://user-images.githubusercontent.com/34766471/117867002-c1d88180-b2d2-11eb-80af-aec25871471f.jpg)
 > > ## * 소프트웨어 전시회 (동아리 주최) - 15년
 > > ## * 소프트웨어 전시회 (동아리 주최) - 16년
 > > ## * 소프트웨어 전시회 (동아리 주최) - 17년
 > > ## * 동아리 하계 워크숍 - 15년
+> > ![2015 워크숍](https://user-images.githubusercontent.com/34766471/117867064-d0bf3400-b2d2-11eb-9fba-8cbe9d0df789.jpg)
 > > ## * 동아리 하계 워크숍 - 17년
+> > ![2017 워크숍 기념샷](https://user-images.githubusercontent.com/34766471/117867115-e6345e00-b2d2-11eb-9c93-f4cbed330c20.jpg)
 
 # 프로젝트
 > ### * EYE
