@@ -45,11 +45,14 @@
 > 개발환경 : C++, Arduino / OpenCV\
 > 프로젝트 : 실시간 영상처리로 사람 얼굴을 인식해 모터를통해 카메라를 움직이고 사진저장\
 > Repository : https://github.com/ChanHyeok961106/FaceTrackingCCTV.git
+> ![슬라이드1](https://user-images.githubusercontent.com/34766471/117873152-6f02c800-b2da-11eb-9749-8e0fc44d6c24.JPG)
+
  
 > ## * Dori
 > 개발환경 : C++, Arduino / OpenCV\
 > 프로젝트 : 사람따라 움직이는 펭귄 인형\
 > Repository : https://github.com/ChanHyeok961106/Dori.git
+> ![슬라이드3](https://user-images.githubusercontent.com/34766471/117873218-82159800-b2da-11eb-8019-56a82deca197.JPG)
 
 > ## * Avoid Trash
 > 개발환경 : python / pygame\
