@@ -2,6 +2,7 @@
 > ### 영문명 : CHANHYEOK CHUN
 > ### 생년월일 : 1996.11.06
 > ### EMAIL : coh01@naver.com
+> ### 개발언어 : C++, Python, Java, JavaScript, HTML, SQL
 > ### 한림대학교 컴퓨터공학과 재학
 > ![chan](https://user-images.githubusercontent.com/34766471/117864170-77a1d100-b2cf-11eb-80e8-992682bd330a.png)
 
