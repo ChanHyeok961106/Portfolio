@@ -56,7 +56,7 @@
 
 > ## * Avoid Trash
 > 개발환경 : python / pygame\
-> 프로젝트 : 실시간 영상처리로 사람 얼굴을 인식해 모터를통해 카메라를 움직이고 사진저장\
+> 프로젝트 : 2층에서 떨어지는 쓰레기를 피하는 \
 > Repository : https://github.com/ChanHyeok961106/AvoidTrash.git
 > ![1](https://user-images.githubusercontent.com/34766471/117873485-c99c2400-b2da-11eb-876b-e3b7a0cb08c0.jpg)
 
