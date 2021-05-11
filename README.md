@@ -3,7 +3,8 @@
 > ### 생년월일 : 1996.11.06
 > ### EMAIL : coh01@naver.com
 > ### 한림대학교 컴퓨터공학과 재학
-> ![KakaoTalk_20210320_201608644](https://user-images.githubusercontent.com/34766471/117863971-47f2c900-b2cf-11eb-8b76-2fc734e26f1a.jpg)
+> ![chan](https://user-images.githubusercontent.com/34766471/117864170-77a1d100-b2cf-11eb-80e8-992682bd330a.png)
+
 
 
 # 프로젝트
