@@ -37,7 +37,9 @@
 > ## * EYE
 > 개발환경 : C++, HTML, MySQL, Apache, Arduino / RaspberryPI, Arduino\
 > 프로젝트 : 눈 건강을 보호하고, 사용자가 커스터마이징 할 수 있는 IoT\
-> Repository : https://github.com/ChanHyeok961106/EYE_IoT_HealthCareProject.git (소스는 라즈베리파이에 있어 추출못함)
+> Repository : https://github.com/ChanHyeok961106/EYE_IoT_HealthCareProject.git 
+> \(소스는 라즈베리파이에 있어 추출못함)
+> ![EYE](https://user-images.githubusercontent.com/34766471/117873027-4ed30900-b2da-11eb-9a4c-e752baec5184.png)
 
 > ## * Face Tracking CCTV
 > 개발환경 : C++, Arduino / OpenCV\
