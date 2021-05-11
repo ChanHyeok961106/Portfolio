@@ -11,8 +11,8 @@
 > > ## * 2017 제 6회 공과대학 연합학술제 서공제 - 팀분야 1위
 > > ## * 2015 제 1회 해커톤(한림대 컴퓨터공학과) - 금상
 > # 활동
-> > ## * Griffith Univ (AUS, goldcoast) 해외연수
-> > ### C# / Unity / 어학연수
+> > ## * Griffith Univ (AUS, goldcoast) 해외연수  ### C# / Unity / 어학연수
+> > 
 
 # 프로젝트
 > ### * EYE
