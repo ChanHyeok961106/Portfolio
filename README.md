@@ -6,7 +6,8 @@
 
 # 프로젝트
 > ### * EYE
-> 눈 건강을 보호하고, 사용자가 커스터마이징 할 수 있는 IoT
+> 개발환경 : RaspberryPI(MySQL, Apache), Arduino / PHP HTML C++ Arduino
+> 프로젝트 : 눈 건강을 보호하고, 사용자가 커스터마이징 할 수 있는 IoT
 > ### * Face Tracking CCTV
 > ### * Dori
 > ### * Avoid Trash
