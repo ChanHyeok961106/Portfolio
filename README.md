@@ -21,8 +21,11 @@
 > > ## * 클리너펜슬 창업 동아리 - 17년 2학기
 > > ![창업동아리 활동증서](https://user-images.githubusercontent.com/34766471/117867002-c1d88180-b2d2-11eb-80af-aec25871471f.jpg)
 > > ## * 소프트웨어 전시회 (동아리 주최) - 15년
+> > ![15소전2](https://user-images.githubusercontent.com/34766471/117867385-45926e00-b2d3-11eb-95a0-7b0fc3d803aa.jpg)
 > > ## * 소프트웨어 전시회 (동아리 주최) - 16년
+> > ![2016 소전 1](https://user-images.githubusercontent.com/34766471/117867309-27c50900-b2d3-11eb-9411-337ecc2d3fa5.jpg)
 > > ## * 소프트웨어 전시회 (동아리 주최) - 17년
+> > ![2017 소전 기념샷](https://user-images.githubusercontent.com/34766471/117867233-0ebc5800-b2d3-11eb-8865-6f1a6cb2e190.jpg)
 > > ## * 동아리 하계 워크숍 - 15년
 > > ![2015 워크숍](https://user-images.githubusercontent.com/34766471/117867064-d0bf3400-b2d2-11eb-9fba-8cbe9d0df789.jpg)
 > > ## * 동아리 하계 워크숍 - 17년
