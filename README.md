@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @ChanHyeok961106
+- 👀 I’m interested in football!
