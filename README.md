@@ -8,11 +8,11 @@
 # 수상 및 활동
 > # 수상
 > > ## * 2017 캡스톤디자인경진대회 - 은상
-> > ![캡스톤 수상](https://user-images.githubusercontent.com/34766471/117866093-b042aa00-b2d1-11eb-9331-9fd031cd4387.jpg)
+![캡스톤 수상 - 복사본](https://user-images.githubusercontent.com/34766471/117866712-66a68f00-b2d2-11eb-9b3b-2030c08a26ef.jpg)
 > > ## * 2017 제 6회 공과대학 연합학술제 서공제 - 팀분야 1위
-> > ![2017 서공제 수상](https://user-images.githubusercontent.com/34766471/117866112-b8024e80-b2d1-11eb-8e33-f6936f8deae6.jpg)
+![2017 서공제 수상 - 복사본](https://user-images.githubusercontent.com/34766471/117866774-7a51f580-b2d2-11eb-9a4f-fabbe2ba7bad.jpg)
 > > ## * 2015 제 1회 해커톤(한림대 컴퓨터공학과) - 금상
-> > ![2015 해커톤 금상](https://user-images.githubusercontent.com/34766471/117866238-dd8f5800-b2d1-11eb-9338-be3c74132390.jpg)
+![2015 해커톤 금상](https://user-images.githubusercontent.com/34766471/117866592-4a0a5700-b2d2-11eb-8192-615c387e0ccc.jpg)
 
 > # 활동
 > > ## * Griffith University (AUS, goldcoast) 해외연수
