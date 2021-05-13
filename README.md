@@ -12,7 +12,7 @@
 ---
 
 # 수상
-> ## * 2017 캡스톤디자인경진대회 - 은상
+> ## - 2017 캡스톤디자인경진대회 - 은상
 > ![캡스톤 수상 - 복사본](https://user-images.githubusercontent.com/34766471/117866712-66a68f00-b2d2-11eb-9b3b-2030c08a26ef.jpg)
 > ## * 2017 제 6회 공과대학 연합학술제 서공제 - 팀분야 1위
 > ![2017 서공제 수상 - 복사본](https://user-images.githubusercontent.com/34766471/117866774-7a51f580-b2d2-11eb-9a4f-fabbe2ba7bad.jpg)
