@@ -12,26 +12,26 @@
 ---
 
 - # 수상
-> - ## - 2017 캡스톤디자인경진대회 - 은상
+> - ## 2017 캡스톤디자인경진대회 - 은상
 > ![캡스톤 수상 - 복사본](https://user-images.githubusercontent.com/34766471/117866712-66a68f00-b2d2-11eb-9b3b-2030c08a26ef.jpg)
-> - ## * 2017 제 6회 공과대학 연합학술제 서공제 - 팀분야 1위
+> - ## 2017 제 6회 공과대학 연합학술제 서공제 - 팀분야 1위
 > ![2017 서공제 수상 - 복사본](https://user-images.githubusercontent.com/34766471/117866774-7a51f580-b2d2-11eb-9a4f-fabbe2ba7bad.jpg)
-> - ## * 2015 제 1회 해커톤(한림대 컴퓨터공학과) - 금상
+> - ## 2015 제 1회 해커톤(한림대 컴퓨터공학과) - 금상
 > ![2015 해커톤 금상](https://user-images.githubusercontent.com/34766471/117866592-4a0a5700-b2d2-11eb-8192-615c387e0ccc.jpg)
 
 ---
 
 # 활동
-> ## * Griffith University (AUS, goldcoast) 해외연수
-> ### C# / Unity / 어학연수
+> - ## Griffith University (AUS, goldcoast) 해외연수
+> - ### C# / Unity / 어학연수
 > ![호주 골드코스트 그리피스대학교 수료증](https://user-images.githubusercontent.com/34766471/117866523-33640000-b2d2-11eb-91c0-db0ec3087981.jpg)
-> ## * 클리너펜슬 창업 동아리 - 17년 2학기
+> - ## 클리너펜슬 창업 동아리 - 17년 2학기
 > ![창업동아리 활동증서](https://user-images.githubusercontent.com/34766471/117874818-7034f480-b2dc-11eb-9855-4110365dc02f.jpg)
-> ## * 소프트웨어 전시회 (동아리 주최) - 15년
+> - ## 소프트웨어 전시회 (동아리 주최) - 15년
 > ![15소전2](https://user-images.githubusercontent.com/34766471/117867385-45926e00-b2d3-11eb-95a0-7b0fc3d803aa.jpg)
-> ## * 소프트웨어 전시회 (동아리 주최) - 16년
+> - ## 소프트웨어 전시회 (동아리 주최) - 16년
 > ![2016 소전 1](https://user-images.githubusercontent.com/34766471/117867309-27c50900-b2d3-11eb-9411-337ecc2d3fa5.jpg)
-> ## * 소프트웨어 전시회 (동아리 주최) - 17년
+> - ## 소프트웨어 전시회 (동아리 주최) - 17년
 > ![2017 소전 기념샷](https://user-images.githubusercontent.com/34766471/117867233-0ebc5800-b2d3-11eb-8865-6f1a6cb2e190.jpg)
 > ## * 동아리 하계 워크숍 - 15년
 > ![2015 워크숍](https://user-images.githubusercontent.com/34766471/117867064-d0bf3400-b2d2-11eb-9fba-8cbe9d0df789.jpg)
