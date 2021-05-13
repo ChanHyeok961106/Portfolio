@@ -33,57 +33,57 @@
 > ![2016 소전 1](https://user-images.githubusercontent.com/34766471/117867309-27c50900-b2d3-11eb-9411-337ecc2d3fa5.jpg)
 > - ## 소프트웨어 전시회 (동아리 주최) - 17년
 > ![2017 소전 기념샷](https://user-images.githubusercontent.com/34766471/117867233-0ebc5800-b2d3-11eb-8865-6f1a6cb2e190.jpg)
-> ## * 동아리 하계 워크숍 - 15년
+> - ## 동아리 하계 워크숍 - 15년
 > ![2015 워크숍](https://user-images.githubusercontent.com/34766471/117867064-d0bf3400-b2d2-11eb-9fba-8cbe9d0df789.jpg)
-> ## * 동아리 하계 워크숍 - 17년
-> > ![2017 워크숍 기념샷](https://user-images.githubusercontent.com/34766471/117867115-e6345e00-b2d2-11eb-9c93-f4cbed330c20.jpg)
+> - ## 동아리 하계 워크숍 - 17년
+> ![2017 워크숍 기념샷](https://user-images.githubusercontent.com/34766471/117867115-e6345e00-b2d2-11eb-9c93-f4cbed330c20.jpg)
 
 # 프로젝트
-> ## * EYE
+> ## EYE
 > 개발환경 : C++, HTML, MySQL, Apache, Arduino / RaspberryPI, Arduino\
 > 프로젝트 : 눈 건강을 보호하고, 사용자가 커스터마이징 할 수 있는 IoT\
 > Repository : https://github.com/ChanHyeok961106/EYE_IoT_HealthCareProject.git 
 > \(소스는 라즈베리파이에 있어 추출못함)\
 > ![EYE](https://user-images.githubusercontent.com/34766471/117873027-4ed30900-b2da-11eb-9a4c-e752baec5184.png)
 
-> ## * Face Tracking CCTV
+> ## Face Tracking CCTV
 > 개발환경 : C++, Arduino / OpenCV\
 > 프로젝트 : 실시간 영상처리로 사람 얼굴을 인식해 모터를통해 카메라를 움직이고 사진저장\
 > Repository : https://github.com/ChanHyeok961106/FaceTrackingCCTV.git
 > ![슬라이드1](https://user-images.githubusercontent.com/34766471/117873152-6f02c800-b2da-11eb-9749-8e0fc44d6c24.JPG)
 
  
-> ## * Dori
+> ## Dori
 > 개발환경 : C++, Arduino / OpenCV\
 > 프로젝트 : 사람따라 움직이는 펭귄 인형\
 > Repository : https://github.com/ChanHyeok961106/Dori.git
 > ![슬라이드3](https://user-images.githubusercontent.com/34766471/117873218-82159800-b2da-11eb-8019-56a82deca197.JPG)
 
-> ## * Avoid Trash
+> ## Avoid Trash
 > 개발환경 : python / pygame\
 > 프로젝트 : 2층에서 떨어지는 쓰레기를 피하는 게임\
 > Repository : https://github.com/ChanHyeok961106/AvoidTrash.git
 > ![1](https://user-images.githubusercontent.com/34766471/117873485-c99c2400-b2da-11eb-876b-e3b7a0cb08c0.jpg)
 
-> ## * Football Manager
+> ## Football Manager
 > 개발환경 : C++\
 > 프로젝트 : 축구인들을 위한 포지션 추천 + 전술 + 포메이션 최적 매니징 프로그램\
 > Repository : https://github.com/ChanHyeok961106/FootballManager.git
 > ![슬라이드0](https://user-images.githubusercontent.com/34766471/117873789-27307080-b2db-11eb-9a5a-efe885cecd2c.JPG)
 
-> ## * Garbage on The Sea - 바다위에 쓰레기
+> ## Garbage on The Sea - 바다위에 쓰레기
 > 개발환경 : Arduino, Android App\
 > 프로젝트 : 해양 쓰레기를 쓰레기로 만든 보트를 통해 치우는 컨셉을 잡고 제작\
 > Repository : https://github.com/ChanHyeok961106/GarbageOnTheSea_CODE_LOST.git (소스 날아감)\
 > ![KakaoTalk_20210409_172303428](https://user-images.githubusercontent.com/34766471/117873928-50e99780-b2db-11eb-99af-c1ac397ef6c0.png)
 
-> ## * 브실골탈출키보드
+> ## 브실골탈출키보드
 > 개발환경 : Arduino / Arduino leonardo, CAD\
 > 프로젝트 : 게임전용 키보드 제작\
 > Repository : https://github.com/ChanHyeok961106/GamingKeyboard.git (소스 날아감)\
 > ![2015 소전 제출작 브실골탈출키보드](https://user-images.githubusercontent.com/34766471/117874130-960dc980-b2db-11eb-8413-3d0e82688947.png)
 
-> ## * 음성인식블루투스RC카
+> ## 음성인식블루투스RC카
 > 프로젝트 : Google Speech API와 블루투스를 이용한 RC카\
 > Repository : ( X ) < 해당 프로젝트 자료 전부 
 
