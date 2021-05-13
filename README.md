@@ -1,12 +1,13 @@
 # 전찬혁
 ---
-### 영문명 : CHANHYEOK CHUN
-### 생년월일 : 1996.11.06
-### EMAIL : coh01@naver.com
-### 사용언어
-![dev](https://user-images.githubusercontent.com/34766471/117871082-f3a01700-b2d7-11eb-922b-6defebac1c7e.png)
-### 한림대학교 컴퓨터공학과 재학
+
 ![chan](https://user-images.githubusercontent.com/34766471/117864170-77a1d100-b2cf-11eb-80e8-992682bd330a.png)
+- 영문명 : CHANHYEOK CHUN
+- 생년월일 : 1996.11.06
+- EMAIL : coh01@naver.com
+- 한림대학교 컴퓨터공학과 재학
+- 사용언어
+![dev](https://user-images.githubusercontent.com/34766471/117871082-f3a01700-b2d7-11eb-922b-6defebac1c7e.png)
 
 ---
 
@@ -18,7 +19,9 @@
 > ## * 2015 제 1회 해커톤(한림대 컴퓨터공학과) - 금상
 > ![2015 해커톤 금상](https://user-images.githubusercontent.com/34766471/117866592-4a0a5700-b2d2-11eb-8192-615c387e0ccc.jpg)
 
-> # 활동
+---
+
+# 활동
 > ## * Griffith University (AUS, goldcoast) 해외연수
 > ### C# / Unity / 어학연수
 > ![호주 골드코스트 그리피스대학교 수료증](https://user-images.githubusercontent.com/34766471/117866523-33640000-b2d2-11eb-91c0-db0ec3087981.jpg)
