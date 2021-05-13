@@ -1,11 +1,11 @@
-# 전찬혁
+# CHANHYEOK CHUN
 ---
 
 ![chan](https://user-images.githubusercontent.com/34766471/117864170-77a1d100-b2cf-11eb-80e8-992682bd330a.png)
-- 영문명 : CHANHYEOK CHUN
+- 이름 : CHANHYEOK CHUN (전찬혁)
+- EMAIL : coh01@naver.com / coh0167@gmail.com
 - 생년월일 : 1996.11.06
-- EMAIL : coh01@naver.com
-- 한림대학교 컴퓨터공학과 재학
+- 학력 : 한림대학교 컴퓨터공학과 재학
 - 사용언어\
 ![dev](https://user-images.githubusercontent.com/34766471/117871082-f3a01700-b2d7-11eb-922b-6defebac1c7e.png)
 
