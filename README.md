@@ -23,7 +23,7 @@
 
 # 활동
 > - ## Griffith University (AUS, goldcoast) 해외연수
-> - ### C# / Unity / 어학연수
+> ### C# / Unity / 어학연수
 > ![호주 골드코스트 그리피스대학교 수료증](https://user-images.githubusercontent.com/34766471/117866523-33640000-b2d2-11eb-91c0-db0ec3087981.jpg)
 > - ## 클리너펜슬 창업 동아리 - 17년 2학기
 > ![창업동아리 활동증서](https://user-images.githubusercontent.com/34766471/117874818-7034f480-b2dc-11eb-9855-4110365dc02f.jpg)
