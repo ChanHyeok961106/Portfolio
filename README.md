@@ -7,7 +7,7 @@
 - 생년월일 : 1996.11.06
 - 학력 : 한림대학교 컴퓨터공학과 재학
 - 사용언어\
-![dev](https://user-images.githubusercontent.com/34766471/117871082-f3a01700-b2d7-11eb-922b-6defebac1c7e.png)
+![dev](https://user-images.githubusercontent.com/34766471/118392596-5fd2a000-b675-11eb-8efe-dd6d8ef588ad.png)
 
 ---
 
