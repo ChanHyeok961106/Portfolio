@@ -42,6 +42,7 @@
 > ## EYE
 > 개발환경 : C++, HTML, MySQL, Apache, Arduino / RaspberryPI, Arduino\
 > 프로젝트 : 눈 건강을 보호하고, 사용자가 커스터마이징 할 수 있는 IoT\
+> 개발 : 전찬혁(팀장), 서종찬, 황지은\
 > Repository : https://github.com/ChanHyeok961106/EYE_IoT_HealthCareProject.git 
 > \(소스는 라즈베리파이에 있어 추출못함)\
 > ![EYE](https://user-images.githubusercontent.com/34766471/117873027-4ed30900-b2da-11eb-9a4c-e752baec5184.png)
@@ -49,6 +50,7 @@
 > ## Face Tracking CCTV
 > 개발환경 : C++, Arduino / OpenCV\
 > 프로젝트 : 실시간 영상처리로 사람 얼굴을 인식해 모터를통해 카메라를 움직이고 사진저장\
+> 개발 : 전찬혁\
 > Repository : https://github.com/ChanHyeok961106/FaceTrackingCCTV.git
 > ![슬라이드1](https://user-images.githubusercontent.com/34766471/117873152-6f02c800-b2da-11eb-9749-8e0fc44d6c24.JPG)
 
@@ -56,6 +58,7 @@
 > ## Dori
 > 개발환경 : C++, Arduino / OpenCV\
 > 프로젝트 : 사람따라 움직이는 펭귄 인형\
+> 개발 : 전찬혁\
 > Repository : https://github.com/ChanHyeok961106/Dori.git
 > ![슬라이드3](https://user-images.githubusercontent.com/34766471/117873218-82159800-b2da-11eb-8019-56a82deca197.JPG)
 
@@ -68,33 +71,39 @@
 > ## Football Manager
 > 개발환경 : C++\
 > 프로젝트 : 축구인들을 위한 포지션 추천 + 전술 + 포메이션 최적 매니징 프로그램\
+> 개발 : 전찬혁\
 > Repository : https://github.com/ChanHyeok961106/FootballManager.git
 > ![슬라이드0](https://user-images.githubusercontent.com/34766471/117873789-27307080-b2db-11eb-9a5a-efe885cecd2c.JPG)
 
 > ## Garbage on The Sea - 바다위에 쓰레기
 > 개발환경 : Arduino, Android App\
 > 프로젝트 : 해양 쓰레기를 쓰레기로 만든 보트를 통해 치우는 컨셉을 잡고 제작\
+> 개발 : 전찬혁(팀장), 김기혁\
 > Repository : https://github.com/ChanHyeok961106/GarbageOnTheSea_CODE_LOST.git (소스 날아감)\
 > ![KakaoTalk_20210409_172303428](https://user-images.githubusercontent.com/34766471/117873928-50e99780-b2db-11eb-99af-c1ac397ef6c0.png)
 
 > ## 브실골탈출키보드
 > 개발환경 : Arduino / Arduino leonardo, CAD\
 > 프로젝트 : 게임전용 키보드 제작\
+> 개발 : 전찬혁\
 > Repository : https://github.com/ChanHyeok961106/GamingKeyboard.git (소스 날아감)\
 > ![2015 소전 제출작 브실골탈출키보드](https://user-images.githubusercontent.com/34766471/117874130-960dc980-b2db-11eb-8413-3d0e82688947.png)
 
 > ## 음성인식블루투스RC카
 > 프로젝트 : Google Speech API와 블루투스를 이용한 RC카\
+> 개발 : 김기혁(팀장), 심창현, 전찬혁, 황영조\
 > Repository : ( X ) < 해당 프로젝트 자료 전부 
 
 > ## * Deep Learning Project (진행중)
 > 개발환경 : Python (Pytorch)\
 > 프로젝트 : 사물종류를 판별 및 연산시간 감소, 정확성 높히기\
+> 개발 : 전찬혁\
 > Repository : 
 
 > ## * Football Manage Web Project (진행중)
 > 개발환경 : HTML, JavaScript\
 > 프로젝트 : 축구인(동호회)들을 위한 매니지먼트(팀관리/포지션/포메이션 어시스트) 웹\
+> 개발 : 전찬혁\
 > Repository :  
 
 
