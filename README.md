@@ -100,6 +100,12 @@
 > 개발 : 전찬혁(팀장), 김기혁, 이준상
 > Repository : ( X ) < 해당 프로젝트 자료 전부 
 
+> ## * Bitcoin parsing( - Coap (Conditional Observe) (진행중)
+> 개발환경 : java\
+> 프로젝트 : 사물종류를 판별 및 연산시간 감소, 정확성 높히기\
+> 개발 : 전찬혁\
+> Repository : 
+
 > ## * Deep Learning Project (진행중)
 > 개발환경 : Python (Pytorch)\
 > 프로젝트 : 사물종류를 판별 및 연산시간 감소, 정확성 높히기\
