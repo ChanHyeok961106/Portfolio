@@ -65,6 +65,7 @@
 > ## Avoid Trash
 > 개발환경 : python / pygame\
 > 프로젝트 : 2층에서 떨어지는 쓰레기를 피하는 게임\
+> 개발 : 전찬혁\
 > Repository : https://github.com/ChanHyeok961106/AvoidTrash.git
 > ![1](https://user-images.githubusercontent.com/34766471/117873485-c99c2400-b2da-11eb-876b-e3b7a0cb08c0.jpg)
 
