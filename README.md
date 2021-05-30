@@ -54,6 +54,12 @@
 > Repository : https://github.com/ChanHyeok961106/FaceTrackingCCTV.git
 > ![슬라이드1](https://user-images.githubusercontent.com/34766471/117873152-6f02c800-b2da-11eb-9749-8e0fc44d6c24.JPG)
 
+> ## Secure IoT Home (IoT) - MQTT
+> 프로젝트 : 웹 파싱하여 비트코인 가격 변동때마다 가격알림\
+> 개발환경 : node-red, nodejs, arduino / (RaspberryPI3, Esp32)
+> 개발 : 전찬혁\
+> Repository : https://github.com/ChanHyeok961106/IoT_MQTT.git
+> ![sih](https://user-images.githubusercontent.com/34766471/120115284-f2b72280-c1bd-11eb-831a-83d1944a0617.jpg)
  
 > ## Dori
 > 프로젝트 : 사람따라 움직이는 펭귄 인형\
@@ -100,17 +106,6 @@
 > 개발 : 전찬혁(팀장), 김기혁, 이준상
 > Repository : ( X ) < 해당 프로젝트 자료 전부 
 
-> ## * Bitcoin Crwaling (IoT) - Coap (Conditional Observe) (진행중)
-> 프로젝트 : 웹 파싱하여 비트코인 가격 변동때마다 가격알림\
-> 개발환경 : java\
-> 개발 : 전찬혁\
-> Repository : 
-
-> ## * 구식 아파트 주차대수 관리 시스템 - MQTT(진행중)
-> 프로젝트 : 구 아파트들의 가정별 대수 밸런스와 공동이익을 위한 제품\
-> 개발환경 : RaspberryPI(server), Arduino(for resource)\
-> 개발 : 전찬혁\
-> Repository :
 
 > ## * Deep Learning Project (진행중)
 > 프로젝트 : 새 종류별 분류\
