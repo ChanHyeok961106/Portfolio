@@ -107,16 +107,9 @@
 > Repository : ( X ) < 해당 프로젝트 자료 전부 
 
 
-> ## * Deep Learning Project (진행중)
+> ## * Deep Learning Project 
 > 프로젝트 : 새 종류별 분류\
 > 개발환경 : Python (Pytorch)\
 > 개발 : 전찬혁\
-> Repository : 
-
-> ## * Football Manage Web Project (진행중)
-> 프로젝트 : 축구인(동호회)들을 위한 매니지먼트(팀관리/포지션/포메이션 어시스트) 웹\
-> 개발환경 : HTML, JavaScript\
-> 개발 : 전찬혁\
-> Repository :  
 
 
